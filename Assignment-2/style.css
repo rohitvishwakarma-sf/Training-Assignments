@@ -1,0 +1,50 @@
+#container {
+    text-align: center;
+    /* border: 3px solid green; */
+    height: 100vh;
+}
+
+#vertical-center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+table,th, td, tr {
+    border: 1px solid black;
+}
+
+th, td {
+    padding:0.5% 2%;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: small;
+
+}
+.editbutton {
+    display: inline-block;
+}
+
+table {
+    /* color: red; */
+    /* transform: translateY(-50%); */
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+#loadbutton {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #00b0ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+button:hover {
+    background-color: #3ebdf8;
+    cursor: pointer;
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "First Name": "Rohit",
+        "Middle Name": "",
+        "Last Name": "Vishwakarma",
+        "Email": "rohit@gmail.com",
+        "Phone": "7000515270",
+        "Role": "Full-Stack Trainee",
+        "Address": "Jabalpur"
+    },
+    {
+        "First Name": "Steve",
+        "Middle Name": "",
+        "Last Name": "Jobs",
+        "Email": "steve@gmail.com",
+        "Phone": "7000515271",
+        "Role": "Apple CEO",
+        "Address": "NewYork"
+    },
+    {
+        "First Name": "Satya",
+        "Middle Name": "",
+        "Last Name": "Nadella",
+        "Email": "Satya@gmail.com",
+        "Phone": "7000515272",
+        "Role": "Microsoft CEO",
+        "Address": "UK"
+    },
+    {
+        "First Name": "Jeff",
+        "Middle Name": "S",
+        "Last Name": "Bezos",
+        "Email": "Jeff@gmail.com",
+        "Phone": "7000515273",
+        "Role": "Amazon CEO",
+        "Address": "Australia"
+    },
+    {
+        "First Name": "Sundar",
+        "Middle Name": "Ram",
+        "Last Name": "Pitchai",
+        "Email": "Sundar@gmail.com",
+        "Phone": "7000515274",
+        "Role": "Google CEO",
+        "Address": "Delhi"
+    }
+]
