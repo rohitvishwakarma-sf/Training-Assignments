@@ -1,46 +1,46 @@
 [{
-        "First Name": "Rohit",
-        "Middle Name": "",
-        "Last Name": "Vishwakarma",
-        "Email": "rohit@gmail.com",
-        "Phone": "7000515270",
-        "Role": "Full-Stack Trainee",
-        "Address": "Jabalpur"
+        "firstName": "Rohit",
+        "middleName": "",
+        "lastName": "Vishwakarma",
+        "email": "rohit@gmail.com",
+        "phone": "7000515270",
+        "role": "Full-Stack Trainee",
+        "address": "Jabalpur"
     },
     {
-        "First Name": "Steve",
-        "Middle Name": "",
-        "Last Name": "Jobs",
-        "Email": "steve@gmail.com",
-        "Phone": "7000515271",
-        "Role": "Apple CEO",
-        "Address": "NewYork"
+        "firstName": "Steve",
+        "middleName": "",
+        "lastName": "Jobs",
+        "email": "steve@gmail.com",
+        "phone": "7000515271",
+        "role": "Apple CEO",
+        "address": "NewYork"
     },
     {
-        "First Name": "Satya",
-        "Middle Name": "",
-        "Last Name": "Nadella",
-        "Email": "Satya@gmail.com",
-        "Phone": "7000515272",
-        "Role": "Microsoft CEO",
-        "Address": "UK"
+        "firstName": "Satya",
+        "middleName": "",
+        "lastName": "Nadella",
+        "email": "Satya@gmail.com",
+        "phone": "7000515272",
+        "role": "Microsoft CEO",
+        "address": "UK"
     },
     {
-        "First Name": "Jeff",
-        "Middle Name": "S",
-        "Last Name": "Bezos",
-        "Email": "Jeff@gmail.com",
-        "Phone": "7000515273",
-        "Role": "Amazon CEO",
-        "Address": "Australia"
+        "firstName": "Jeff",
+        "middleName": "S",
+        "lastName": "Bezos",
+        "email": "Jeff@gmail.com",
+        "phone": "7000515273",
+        "role": "Amazon CEO",
+        "address": "Australia"
     },
     {
-        "First Name": "Sundar",
-        "Middle Name": "Ram",
-        "Last Name": "Pitchai",
-        "Email": "Sundar@gmail.com",
-        "Phone": "7000515274",
-        "Role": "Google CEO",
-        "Address": "Delhi"
+        "firstName": "Sundar",
+        "middleName": "Ram",
+        "lastName": "Pitchai",
+        "email": "Sundar@gmail.com",
+        "phone": "7000515274",
+        "role": "Google CEO",
+        "address": "Delhi"
     }
 ]

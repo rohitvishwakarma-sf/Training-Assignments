@@ -1,6 +1,5 @@
 #container {
     text-align: center;
-    /* border: 3px solid green; */
     height: 100vh;
 }
 
@@ -16,13 +15,29 @@ table,th, td, tr {
 }
 
 th, td {
-    padding:0.5% 2%;
+    padding:0.5% 0.1%;
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: small;
-
 }
-.editbutton {
-    display: inline-block;
+th {
+    background-color: rgb(190, 245, 190);
+}
+td{
+    background-color: rgb(210, 235, 252);
+}
+.editbutton, .deletebutton, .savebutton, .cancelbutton {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #00b0ff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 2px;
+}
+.deletebutton{
+    background-color: red;
+}
+.savebutton {
+    background-color: seagreen;
 }
 
 table {
@@ -32,10 +47,9 @@ table {
     margin-right: auto;
     border-collapse: collapse;
     margin-bottom: 30px;
-    width: 100%;
 }
 
-#loadbutton {
+#loadbutton, #refreshbutton {
     font-family: 'Noto Sans JP', sans-serif;
     background-color: #00b0ff;
     color: white;
