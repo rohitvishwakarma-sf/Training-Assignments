@@ -22,3 +22,7 @@
 - ES6 concpets
 - Typescript instead of Javascript
 - Generics, Classes, Interfaces and Enums,Decrators
+
+## How to run
+
+run `npm start` to run the project
