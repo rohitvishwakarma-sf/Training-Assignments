@@ -22,6 +22,7 @@
 - ES6 concpets
 - Typescript instead of Javascript
 - Generics, Classes, Interfaces and Enums,Decrators
+- Followed SOLID principles
 
 ## How to run
 
