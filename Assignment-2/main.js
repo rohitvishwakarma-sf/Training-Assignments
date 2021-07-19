@@ -5,6 +5,7 @@ refreshbutton.addEventListener("click",refresh);
 let userdata = null;
 
 async function Load(e) {
+    console.log(e);
     e.target.style = "display:none"
     document.getElementById("refreshbutton").style="";
     await fetch("./data.json")
